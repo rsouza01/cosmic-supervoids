@@ -32,6 +32,12 @@ Steps to download and install dependencies for local development
 - Run task run-eos-polytrope to test it.
 - Run task dep:lock to generate the requirements.txt file so you can commit it to Git.
 
+## References
+
+- [VAST: the Void Analysis Software Toolkit
+](https://joss.theoj.org/papers/10.21105/joss.04033)
+- [VAST on Github](https://github.com/desi-ur/vast)
+
 ## Authors
 
 - [@rsouza01](https://www.github.com/rsouza01)
